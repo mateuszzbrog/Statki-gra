@@ -1,0 +1,10 @@
+Bercik ; 66
+Karolina ; 69
+Albert ; 71
+Kasia ; 78
+Andrzej ; 81
+Karol ; 82
+Mariusz ; 84
+Anonim ; 88
+Patrycja ; 88
+Artur ; 100
